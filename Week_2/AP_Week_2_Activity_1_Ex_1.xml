@@ -1,0 +1,21 @@
+<studentscores>
+	<studentscore>
+		<ID>16430122-1521</ID>
+		<Name>Pace, Camden G.</Name>
+		<SubectScores>
+			<Maths>
+				<Test1>54%>/Test1>
+				<Test2>63%</Test2>
+			</Maths>
+			<English>
+				<Essay1>C+</Essay1>
+				<Essay2>B+</Essay2>
+			</English>
+			<IT>
+				<Activity1>Pass</Activity1>
+				<Test_2>32%</Test_2>
+				<Essay3>C+</Essay3>
+			</IT>
+		</SubjectScores>
+	<studentscore>
+</studentscores>
