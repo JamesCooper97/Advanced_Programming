@@ -1,0 +1,111 @@
+{
+    "RaceInfo": [
+      {
+        "Race": 1,
+        "Type": "Flat",
+        "Weather": "Warm"
+      },
+      {
+        "Race": "2",
+        "Type": "Flat",
+        "Weather": "Wet"
+      },
+      {
+        "Race": "3",
+        "Type": "Hurdle",
+        "Weather": "Cold"
+      }
+    ],
+    "Results": [
+      {
+        "Name": "Birthday List",
+        "Age": 2,
+        "Outcome": [
+          {
+            "Race": 1,
+            "Position": "2"
+          },
+          {
+            "Race": 2,
+            "Position": "N/P"
+          },
+          {
+            "Race": 3,
+            "Position": "3"
+          }
+        ]
+      },
+      {
+        "Name": "Goodtime",
+        "Age": 3,
+        "Outcome": [
+          {
+            "Race": 1,
+            "Position": "N/R"
+          },
+          {
+            "Race": 2,
+            "Position": "1"
+          },
+          {
+            "Race": 3,
+            "Position": "N/R"
+          }
+        ]
+      },
+      {
+        "Name": "Black Jug",
+        "Age": 5,
+        "Outcome": [
+          {
+            "Race": 1,
+            "Position": "9"
+          },
+          {
+            "Race": 2,
+            "Position": "N/R"
+          },
+          {
+            "Race": 3,
+            "Position": "N/P"
+          }
+        ]
+      },
+      {
+        "Name": "Plucky Pedro",
+        "Age": 6,
+        "Outcome": [
+          {
+            "Race": 1,
+            "Position": "N/R"
+          },
+          {
+            "Race": 2,
+            "Position": "N/P"
+          },
+          {
+            "Race": 3,
+            "Position": "5"
+          }
+        ]
+      },
+      {
+        "Name": "Querty",
+        "Age": 3,
+        "Outcome": [
+          {
+            "Race": 1,
+            "Position": "4"
+          },
+          {
+            "Race": 2,
+            "Position": "3"
+          },
+          {
+            "Race": 3,
+            "Position": "N/P"
+          }
+        ]
+      }
+    ]
+  }
